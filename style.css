@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+       font-family: fantasy;
+    display: inline;
+}
+
+#contactus iframe{
+    width: 100%;
+}
+
+   
+
+
+#video{
+ width: 100% ;
+height: 500px;
+ border-color: grey;
+    border-width: medium;
+}
+
+.marquee{
+    background-color: skyblue;
+}
+
+.travel_mainDiv img{
+    width: 100%;
+    height:300px;
+}
+
+.travel_mainDiv hr{
+    width: 100%
+}
+
+.travel_mainDiv h5 , .travell_mainDiv p
+{
+    margin-left: 20px;
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display:table-cell;
+}
+
+.travel_mainDiv
+{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+#achievementsID{
+    padding-bottom: 10px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color:aqua;
+}
